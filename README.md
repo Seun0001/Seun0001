@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Seun0001
-- 👀 I’m interested in learning creative ideas and knowing more about gits and its components.
-- 🌱 I’m currently learning GitHub and some few programming languages such as C.
+- 👀 I’m interested in learning creative ideas and knowing more about gits andits components. Also aspiring to learn everything I could understand.
+- 🌱 I’m currently learning GitHub and some few programming languages such as C, {Html,Css and JavaScript}.
 - 💞️ I’m looking to collaborate on giving the best time to give a satisfiable results.
 - 📫 How to reach me is through my email (oluwaseunafolabi941@gmail.com).
 
